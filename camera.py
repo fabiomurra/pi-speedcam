@@ -9,7 +9,6 @@
 # day 3:
 # setting up git
 # added git with VS Code server
-# now trying to link it to my github repo
 
 # import
 from picamera import PiCamera
